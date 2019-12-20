@@ -1,0 +1,6 @@
+- Make sure you have install visual studio and that cl.exe is in your path
+- Make sure you have pyhton 3 installed ant that it's in your path
+- Run build.bat
+- Now you should have a concaveman.dll in the same folder as build.bat
+- Run setup_python_env.bat to set up a python environment for running test.py
+- Run `python test.py` and you should see a long list of points which is the result from using concaveman
